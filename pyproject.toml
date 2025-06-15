@@ -1,0 +1,5 @@
+[project]
+name = "crumblebot"
+version = "0.1.0"
+description = "A Discord bot for anime and manga news"
+authors = {name = "Craze"}
